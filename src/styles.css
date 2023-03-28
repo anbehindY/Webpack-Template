@@ -2,4 +2,7 @@
     color: red;
     background: url('./icon.png');
   }
-  
+
+body {
+    background-color: bisque;
+}
